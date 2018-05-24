@@ -41,8 +41,8 @@ U8G2_SSD1306_128X64_NONAME_F_HW_I2C       u8g2(U8G2_R2, 16, 15, 4);         // O
 
 
 
-const char* ssid = "Ebola";
-const char* password = "96616831";
+const char* ssid = "ssid";
+const char* password = "password";
 
 ESP32WebServer server ( 80 );
 
